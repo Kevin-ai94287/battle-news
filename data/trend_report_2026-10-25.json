@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-25",
+  "timestamp": "2026-10-25 00:31:53",
+  "total_news": 5,
+  "total_engagement": 2238,
+  "tag_counts": {
+    "乌克兰": 2,
+    "俄罗斯": 3,
+    "美国": 4,
+    "以色列": 1,
+    "哈马斯": 1,
+    "伊朗": 1,
+    "欧洲": 1
+  },
+  "source_counts": {
+    "Reuters": 2,
+    "BBC": 1,
+    "CNN": 1,
+    "Al Jazeera": 1
+  },
+  "hot_tags": [
+    {
+      "tag": "美国",
+      "count": 4
+    },
+    {
+      "tag": "俄罗斯",
+      "count": 3
+    },
+    {
+      "tag": "乌克兰",
+      "count": 2
+    },
+    {
+      "tag": "以色列",
+      "count": 1
+    },
+    {
+      "tag": "哈马斯",
+      "count": 1
+    }
+  ],
+  "previous_day_comparison": {}
+}
